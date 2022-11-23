@@ -4,12 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Test" Type="Folder">
-		<Item Name="TestCollection.vi" Type="VI" URL="../Test/TestCollection.vi"/>
-		<Item Name="TestCollectionByRef.vi" Type="VI" URL="../Test/TestCollectionByRef.vi"/>
-		<Item Name="Class 1.lvclass" Type="LVClass" URL="../Test/Class 1/Class 1.lvclass"/>
-		<Item Name="Class 2.lvclass" Type="LVClass" URL="../Test/Class 2/Class 2.lvclass"/>
-	</Item>
 	<Item Name="CollectionByValue.lvclass" Type="LVClass" URL="../CollectionByValue/CollectionByValue.lvclass"/>
 	<Item Name="CollectionByRef.lvclass" Type="LVClass" URL="../CollectionByRef/CollectionByRef.lvclass"/>
 </Library>
